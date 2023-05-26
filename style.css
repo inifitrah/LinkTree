@@ -105,4 +105,5 @@ a {
 .profile:hover img {
   transform: scale(1.9);
   cursor: pointer;
+  filter: brightness(3);
 }

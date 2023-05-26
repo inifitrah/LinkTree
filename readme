@@ -1,8 +1,13 @@
-cuma dengan HTML css
+cuma dengan HTML css (dasar)
 -border radius
 -opacity
 -rgba/hsla
 -boxshadow
 -textshadow
 -linear gradient
--
+-font face
+-filter
+-transform
+-transition
+-animation
++flex box
