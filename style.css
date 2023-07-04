@@ -81,7 +81,7 @@ a {
 }
 
 /* animasi & transisi*/
-.link-ku:hover {
+.link-ku:active {
   background-color: rgb(37, 36, 36);
   transform: scale(0.98);
   box-shadow: none;
